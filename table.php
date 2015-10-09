@@ -1,5 +1,6 @@
 <?php
-
-//tsau
+	
+	require_once("functions.php");
+	getCarData();
 
 ?>
